@@ -1,0 +1,7 @@
+{
+  "name": "Trabalhando_Com_GitHub",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
